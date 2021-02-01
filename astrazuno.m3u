@@ -253,7 +253,8 @@ http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/chunklist_w12668581
 #EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="Canais", CANAL RICOS
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8 
 
-
+#EXTINF:-1 tvg-id="Canal GNT [Brazil]" tvg-name="GNT" tvg-logo="https://s1.postimg.org/82vvpstgr3/GNT.png" group-title="Documentários",GNT
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/220.ts'victorallm.ts
 ###########################################################################################
 ################################### TODO MUNDO ODEIA O CHRIS ##############################
 ###########################################################################################
